@@ -1,0 +1,35 @@
+{
+  "name": "will-o-wisp-theme",
+  "displayName": "Will-o'-Wisp Theme",
+  "description": "Like a will-o'-wisp in the night – a cold and dark theme for Visual Studio Code.",
+  "version": "0.0.1",
+  "publisher": "simon-jaeger",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simon-jaeger/vscode-will-o-wisp-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/simon-jaeger/vscode-will-o-wisp-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#191c1f",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Will-o'-Wisp Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/will-o-wisp-theme.json"
+      }
+    ]
+  }
+}
