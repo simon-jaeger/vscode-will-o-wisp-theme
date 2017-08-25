@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog][] and this project adheres to [Semanti
 
 ## [Unreleased]
 
+## 0.1.0 - 2017-08-25
+
 - README, package info, licence
 - An icon
 - Various general syntax rules
