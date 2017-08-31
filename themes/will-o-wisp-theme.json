@@ -27,7 +27,9 @@
       "scope": [
         "entity.name.tag.yaml",
         "variable",
-        "support.variable"
+        "support.variable",
+        "support.constant",
+        "support.class"
       ],
       "settings": {
         "foreground": "#b3b3b3"
@@ -53,6 +55,8 @@
         "storage",
         "entity.name.tag",
         "constant.character.escape",
+        "variable.language.this",
+        "fenced_code",
         "markup.inline"
       ],
       "settings": {

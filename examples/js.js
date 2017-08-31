@@ -25,7 +25,7 @@ switch (number) {
     console.log('default')
 }
 
-if (Math.random > 0.5) {
+if (Math.random() > 0.5) {
   console.log('heads')
 }
 else {
@@ -39,5 +39,16 @@ class Rectangle {
     this.height = height;
     this.width = width;
   }
+
+  get area() {
+    return this.height * this.width
+  }
+
+  grow() {
+    this.height++
+    this.width++
+  }
 }
 const square = new Rectangle(10, 10)
+square.grow()
+console.log(square.area)

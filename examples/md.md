@@ -1,10 +1,6 @@
-- [markdown](#markdown)
-  - [various examples](#various-examples)
-    - [heading 3](#heading-3)
-
 # markdown
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta molestie elit, nec luctus augue. Quisque erat enim, condimentum hendrerit pellentesque in, malesuada nec lorem. Nulla cursus odio vitae nunc ultrices pellentesque. Praesent fringilla rhoncus nisl quis volutpat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta molestie elit, nec luctus augue.
 
 ## various examples
 
@@ -12,9 +8,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta molestie el
 - **bold**
 - [link](https://github.com)
 - `code`
-- ~~strike~~
 
-```javascript
+```js
 console.log('hello world')
 ```
 
@@ -24,7 +19,3 @@ console.log('hello world')
 | one  | two  | three |
 
 > He ho fights with monsters might take care lest he thereby become a monster. And if you gaze for long into an abyss, the abyss gazes also into you.
-
-### heading 3
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
