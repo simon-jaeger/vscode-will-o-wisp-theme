@@ -14,6 +14,7 @@ Like a will-o'-wisp in the night – a cold and dark theme for Visual Studio Cod
 ## Installation
 
 ```
-  ext install vscode-will-o-wisp-theme
+ext install will-o-wisp-theme
 ```
-Activate it by selecting `Preferences > Color Theme > Will-o'-Wisp Theme`
+
+Activate it by selecting `File > Preferences > Color Theme > Will-o'-Wisp Theme`

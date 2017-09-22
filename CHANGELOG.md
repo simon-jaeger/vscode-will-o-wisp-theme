@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog][] and this project adheres to [Semanti
 
 ## [Unreleased][]
 
+## [0.2.1][] - 2017-09-22
+
+- `README.md`: fixed installation guide
+- removed currently unneeded file `.vscodeignore`
+
 ## [0.2.0][] - 2017-08-31
 
 - `CHANGELOG.md`: comparision links
@@ -30,6 +35,7 @@ The format is based on [Keep a Changelog][] and this project adheres to [Semanti
 [Keep a Changelog]: http://keepachangelog.com/en/1.0.0/
 [Semantic Versioning]: http://semver.org/spec/v2.0.0.html
 
-[Unreleased]: https://github.com/simon-jaeger/vscode-will-o-wisp-theme/compare/v0.2.0...dev
+[Unreleased]: https://github.com/simon-jaeger/vscode-will-o-wisp-theme/compare/v0.2.1...dev
+[0.2.1]: https://github.com/simon-jaeger/vscode-will-o-wisp-theme/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/simon-jaeger/vscode-will-o-wisp-theme/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/simon-jaeger/vscode-will-o-wisp-theme/commit/6ddc10d7d7a8523df32516f59682093c65cab4f4
