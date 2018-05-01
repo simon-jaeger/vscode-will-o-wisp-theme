@@ -6,10 +6,7 @@ Like a will-o'-wisp in the night – a cold and dark theme for Visual Studio Cod
 
 ## Examples
 
-![js](https://raw.githubusercontent.com/simon-jaeger/vscode-will-o-wisp-theme/master/images/js.png)
-![css](https://raw.githubusercontent.com/simon-jaeger/vscode-will-o-wisp-theme/master/images/css.png)
-![html](https://raw.githubusercontent.com/simon-jaeger/vscode-will-o-wisp-theme/master/images/html.png)
-![md](https://raw.githubusercontent.com/simon-jaeger/vscode-will-o-wisp-theme/master/images/md.png)
+![example](https://raw.githubusercontent.com/simon-jaeger/vscode-will-o-wisp-theme/master/images/example.png)
 
 ## Installation
 

@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog][] and this project adheres to [Semanti
 
 ## [Unreleased][]
 
+## [0.3.0][] - 2018-05-01
+
+- added terminal colors
+- slight color adjustments (lightness and saturation increased for better readability)
+- new token color: _string-special_ (for regex etc.)
+- basic support for react/jsx highlighting
+- extended token color: _numeric_ --> _numeric-or-other_
+- html attributes and css classes now _numeric-or-other_
+
 ## [0.2.1][] - 2017-09-22
 
 - `README.md`: fixed installation guide
@@ -24,18 +33,12 @@ The format is based on [Keep a Changelog][] and this project adheres to [Semanti
 - Added an icon
 - Various general syntax rules
 
-<!-- template
-## x.y.z - yyyy-mm-dd
-
-- foobar
-
--->
-
 <!-- links -->
-[Keep a Changelog]: http://keepachangelog.com/en/1.0.0/
-[Semantic Versioning]: http://semver.org/spec/v2.0.0.html
 
-[Unreleased]: https://github.com/simon-jaeger/vscode-will-o-wisp-theme/compare/v0.2.1...dev
+[keep a changelog]: http://keepachangelog.com/en/1.0.0/
+[semantic versioning]: http://semver.org/spec/v2.0.0.html
+[unreleased]: https://github.com/simon-jaeger/vscode-will-o-wisp-theme/compare/v0.3.0...dev
+[0.3.0]: https://github.com/simon-jaeger/vscode-will-o-wisp-theme/compare/v0.2.1...v0.3.0
 [0.2.1]: https://github.com/simon-jaeger/vscode-will-o-wisp-theme/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/simon-jaeger/vscode-will-o-wisp-theme/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/simon-jaeger/vscode-will-o-wisp-theme/commit/6ddc10d7d7a8523df32516f59682093c65cab4f4

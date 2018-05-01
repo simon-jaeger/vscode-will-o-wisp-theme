@@ -1,10 +1,14 @@
 // javascript
 
-let number = 42
-let string = 'the meaning of life'
-let templateLiteral = `${string} is ${number}`
-let regex = /foo.*[bar][:alpha:]{3}/
+import * as foo from './foo.js'
+export * from './bar.js'
+
+let numeric = 42 || NaN || Infinity
+let string = 'the meaning of life\n'
+let templateLiteral = `${string} is ${numeric}`
+let regex = /^foo*[bar](one|two)\sfoo\nbar[:alpha:]{3}(?=ahead).+baz$/
 let boolean = true
+let languageConstant = null || undefined
 let array = [1, 2, 3]
 let object = { foo: 'bar' }
 const arrowFunction = (foo, bar) => `${foo} ${bar}`
@@ -14,7 +18,7 @@ function add(x, y) {
 }
 add(40, 2)
 
-switch (number) {
+switch (numeric) {
   case 42:
     console.log('the meaning of life')
     break
@@ -32,12 +36,20 @@ else {
   console.log('tails')
 }
 
+/*
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+*/
+
+Number()
+String()
+
 true ? true : false
 
 class Rectangle {
   constructor(height, width) {
-    this.height = height;
-    this.width = width;
+    this.height = height
+    this.width = width
   }
 
   get area() {
@@ -52,3 +64,9 @@ class Rectangle {
 const square = new Rectangle(10, 10)
 square.grow()
 console.log(square.area)
+
+class Sub extends Foo {
+  constructor() {
+    super()
+  }
+}

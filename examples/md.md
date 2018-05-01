@@ -18,4 +18,4 @@ console.log('hello world')
 | one  | two  | three |
 | one  | two  | three |
 
-> He ho fights with monsters might take care lest he thereby become a monster. And if you gaze for long into an abyss, the abyss gazes also into you.
+> He who fights with monsters might take care lest he thereby become a monster. And if you gaze for long into an abyss, the abyss gazes also into you.

@@ -6,7 +6,7 @@ div {
   color: #333;
 }
 
-.foo {
+span.foo {
   border: 1px solid black;
   background-color: hsl(150, 10%, 30%);
 }
