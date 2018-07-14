@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog][] and this project adheres to [Semanti
 
 ## [Unreleased][]
 
+- `meta.embedded.line` highlighted as _unobtrusive_ (ending curly braces in embedded php etc.)
+
 ## [0.3.0][] - 2018-05-01
 
 - added terminal colors

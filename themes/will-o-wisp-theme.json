@@ -63,6 +63,7 @@
         "comment",
         "markup.underline.link",
         "meta.brace",
+        "meta.embedded.line",
         "meta.tag",
         "meta.jsx keyword.operator.assignment.js",
         "punctuation"
