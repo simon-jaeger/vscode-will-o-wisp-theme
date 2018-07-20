@@ -16,16 +16,16 @@
     "statusBar.noFolderBackground": "#1c1f21",
     "terminal.foreground": "#b3b3b3",
     "terminalCursor.foreground": "#b3b3b3",
-    "terminal.ansiBrightBlack": "#5d6a83",
-    "terminal.ansiBrightBlue": "#8294c9",
+    "terminal.ansiBrightBlack": "#64718C",
+    "terminal.ansiBrightBlue": "#8194CC",
     "terminal.ansiBrightCyan": "#72b2b8",
     "terminal.ansiBrightGreen": "#78ab81",
     "terminal.ansiBrightMagenta": "#aa83aa",
     "terminal.ansiBrightRed": "#c45f5f",
     "terminal.ansiBrightWhite": "#b3b3b3",
     "terminal.ansiBrightYellow": "#b88e2e",
-    "terminal.ansiBlack": "#5d6a83",
-    "terminal.ansiBlue": "#8294c9",
+    "terminal.ansiBlack": "#64718C",
+    "terminal.ansiBlue": "#8194CC",
     "terminal.ansiCyan": "#72b2b8",
     "terminal.ansiGreen": "#78ab81",
     "terminal.ansiMagenta": "#aa83aa",
@@ -69,7 +69,7 @@
         "punctuation"
       ],
       "settings": {
-        "foreground": "#5d6a83"
+        "foreground": "#64718C"
       }
     },
     {
@@ -87,7 +87,7 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#8294c9"
+        "foreground": "#8194CC"
       }
     },
     {

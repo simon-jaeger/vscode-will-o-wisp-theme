@@ -11,3 +11,4 @@ add(5, 2);
 <?php if ($msg === 'hi') { ?>
   true
 <?php } ?>
+

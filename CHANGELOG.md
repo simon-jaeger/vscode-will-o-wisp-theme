@@ -4,8 +4,10 @@ All notable changes to the "will-o-wisp-theme" extension will be documented in t
 
 The format is based on [Keep a Changelog][] and this project adheres to [Semantic Versioning][].
 
-## [Unreleased][]
+## [Unreleased][] - 2018-XX-XX
 
+
+- slight color adjustments (lightness and saturation further increased for better readability)
 - `meta.embedded.line` highlighted as _unobtrusive_ (ending curly braces in embedded php etc.)
 
 ## [0.3.0][] - 2018-05-01

@@ -3,6 +3,22 @@
 import * as foo from './foo.js'
 export * from './bar.js'
 
+// will-o-wisp
+
+let variousValues = [
+  123, 424242,
+  true, false,
+  'foobar\n',
+]
+variousValues.forEach(x => console.log(x))
+
+function add(x, y) {
+  return x + y
+}
+
+// Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+// Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
 let numeric = 42 || NaN || Infinity
 let string = 'the meaning of life\n'
 let templateLiteral = `${string} is ${numeric}`
