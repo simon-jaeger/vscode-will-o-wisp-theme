@@ -9,7 +9,6 @@ The format is based on [Keep a Changelog][] and this project adheres to [Semanti
 
 - TODO: update screenshots
 
-- `punctuation.definition.string.end.sql` highlighed as _string_ to fix potential bug in vscode/tm scopes
 - slight color adjustments (lightness and saturation further increased for better readability)
 - `meta.embedded.line` highlighted as _unobtrusive_ (ending curly braces in embedded php etc.)
 

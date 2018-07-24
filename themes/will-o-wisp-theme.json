@@ -107,7 +107,6 @@
       "name": "string",
       "scope": [
         "constant.other.reference.link",
-        "punctuation.definition.string.end.sql",
         "string"
       ],
       "settings": {
