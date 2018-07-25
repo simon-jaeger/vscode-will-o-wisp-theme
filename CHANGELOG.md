@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog][] and this project adheres to [Semanti
 
 - TODO: update screenshots
 
-- slight color adjustments (lightness and saturation further increased for better readability)
+- lightness of _unobtrusive_ increased for better readability of commments
 - `meta.embedded.line` highlighted as _unobtrusive_ (ending curly braces in embedded php etc.)
 
 ## [0.3.0][] - 2018-05-01
